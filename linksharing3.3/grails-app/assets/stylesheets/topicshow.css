@@ -1,0 +1,32 @@
+/*######### navbar - modal  #########*/
+.dash_links{
+    color: white;
+    align-items: center;
+}
+
+.dash_links {
+    text-decoration: none;
+    color: white; 
+    padding: 0%;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/*#########   body  #########*/
+
+.postImage{
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    float: left;
+}
+
+.pImage{
+    max-width:100%;
+    max-height:100%;
+    display: block;   
+}
+
+.card-body .postContent p{
+    margin-left: 100px;
+}
