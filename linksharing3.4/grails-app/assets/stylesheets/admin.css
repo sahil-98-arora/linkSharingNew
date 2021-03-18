@@ -1,0 +1,13 @@
+/*######### navbar - modal  #########*/
+.dash_links{
+    color: white;
+    align-items: center;
+}
+
+.dash_links_{
+    text-decoration: none;
+    color: white; 
+    padding: 0%;
+    font-size: 15px;
+    font-weight: 500;
+}
